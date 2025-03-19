@@ -10,7 +10,7 @@
 ✍️ &nbsp;In my free time, I enjoy designing web pages, brainstorming application ideas, and writing the occasional article on my [LinkedIn](https://www.linkedin.com/in/danieldelacorte/)…
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 ✉️ &nbsp;You can shoot me an email at ddelacortep@gmail.com! I’ll try to respond as soon as I can.
-📄 &nbsp;Please have a look at my [Résumé]([https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp](https://drive.google.com/file/d/19IDpNOwZHN-RAJJW5p-Y4DlBdECbkIYO/view?usp=drive_link)) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/19IDpNOwZHN-RAJJW5p-Y4DlBdECbkIYO/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 </pre>
 
 
@@ -53,10 +53,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/ddelacortep/ddelacortep">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/ddelacortep/ddelacortep">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
