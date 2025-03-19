@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I’m currently learning to become a full-stack developer. <br>
+<div style="background-color: rgba(128, 128, 128, 0.2); padding: 10px;">👨‍💻 &nbsp;I’m currently learning to become a full-stack developer. <br>
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
 🎓 &nbsp;Currently studying a Higher Degree in Web Application Development (DAW) at the Centre d’Estudis Politècnics in Barcelona.<br>
 🌟 &nbsp;Main languages: HTML5, CSS3, JavaScript, Java<br>
@@ -10,7 +10,7 @@
 ✍️ &nbsp;In my free time, I enjoy designing web pages, brainstorming application ideas, and writing the occasional article on my [LinkedIn](https://www.linkedin.com/in/danieldelacorte/)…<br>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
 ✉️ &nbsp;You can shoot me an email at ddelacortep@gmail.com! I’ll try to respond as soon as I can.<br>
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/19IDpNOwZHN-RAJJW5p-Y4DlBdECbkIYO/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!<br>
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/19IDpNOwZHN-RAJJW5p-Y4DlBdECbkIYO/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!</div>
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
