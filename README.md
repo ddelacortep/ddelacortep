@@ -45,7 +45,8 @@
 ### 💻 &nbsp;Software 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)&nbsp;
+![Ubuntu] (![Static Badge](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=blue&cacheSeconds=360)&nbsp;
+![Windows](![Static Badge](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=microsoft&logoColor=blue&cacheSeconds=360)&nbsp;
 
 ### 🌐 &nbsp;Connect With Me
 
