@@ -5,7 +5,7 @@
 👨‍💻 &nbsp;I’m currently learning to become a full-stack developer. <br>
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
 🎓 &nbsp;Currently studying a Higher Degree in Web Application Development (DAW) at the Centre d’Estudis Politècnics in Barcelona.<br>
-🌟 &nbsp;Main languages: HTML5, CSS3, JavaScript, Java<br>
+🌟 &nbsp;Main languages: HTML5, CSS3, JavaScript, SQL<br>
 🌱 &nbsp;I am also self-training by taking official courses on Udemy, Microsoft, and Coursera to complement my academic education.<br>
 ✍️ &nbsp;In my free time, I enjoy designing web pages, brainstorming application ideas, and writing the occasional article on my [LinkedIn](https://www.linkedin.com/in/danieldelacorte)<br>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
