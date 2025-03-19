@@ -47,7 +47,7 @@
 
 ### 🌐 &nbsp;Connect With Me
 
-[<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danieldelacorte/) ![GitHub](https://github.com/thmsgbrt)
+[<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danieldelacorte/) ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
