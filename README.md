@@ -2,15 +2,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I’m currently learning to become a full-stack developer.
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-🎓 &nbsp;Currently studying a Higher Degree in Web Application Development (DAW) at the Centre d’Estudis Politècnics in Barcelona.
-🌟 &nbsp;Main languages: HTML5, CSS3, JavaScript, Java
-🌱 &nbsp;I am also self-training by taking official courses on Udemy, Microsoft, and Coursera to complement my academic education.
-✍️ &nbsp;In my free time, I enjoy designing web pages, brainstorming application ideas, and writing the occasional article on my [LinkedIn](https://www.linkedin.com/in/danieldelacorte/)…
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-✉️ &nbsp;You can shoot me an email at ddelacortep@gmail.com! I’ll try to respond as soon as I can.
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/19IDpNOwZHN-RAJJW5p-Y4DlBdECbkIYO/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
+👨‍💻 &nbsp;I’m currently learning to become a full-stack developer. <br>
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
+🎓 &nbsp;Currently studying a Higher Degree in Web Application Development (DAW) at the Centre d’Estudis Politècnics in Barcelona.<br>
+🌟 &nbsp;Main languages: HTML5, CSS3, JavaScript, Java<br>
+🌱 &nbsp;I am also self-training by taking official courses on Udemy, Microsoft, and Coursera to complement my academic education.<br>
+✍️ &nbsp;In my free time, I enjoy designing web pages, brainstorming application ideas, and writing the occasional article on my [LinkedIn](https://www.linkedin.com/in/danieldelacorte/)…<br>
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
+✉️ &nbsp;You can shoot me an email at ddelacortep@gmail.com! I’ll try to respond as soon as I can.<br>
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/19IDpNOwZHN-RAJJW5p-Y4DlBdECbkIYO/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!<br>
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -53,10 +53,10 @@
 
 <p align="center">
   <a href="https://github.com/ddelacortep/ddelacortep">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ddelacortep&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/ddelacortep/ddelacortep">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ddelacortep&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
